@@ -16,7 +16,7 @@
   - UIUX improvement (espicially for Medical Records Management)
   - User managerment/regiester (finished password change only)
   - OAuth2
-  - Dockilzation
+  - Dockerilzation
   - Microservice version (for cloulization in the future)
   - Partner/Employee function
   - Other requirements from users
