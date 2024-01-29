@@ -1,6 +1,6 @@
-# screenshots
-## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt0
-## (it using Agile moethod for development, so evaluated from MVP and will be improved contiously ).
+# screenshots of gpcalendar (B/S based gensolve's calendar like functiion)
+## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
+## (it using Agile moethod for development, so evaluated from MVP and will be improved contiously).
 ### Following tasks/functions are finished:
   - Standalone architect (Spring boot + mybatis, Vue3 (Typescript))
   - Clients Management
