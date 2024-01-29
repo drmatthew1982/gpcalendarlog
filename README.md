@@ -20,7 +20,7 @@
   - Microservice version (for cloulization in the future)
   - Partner/Employee function
   - Other requirements from users
-  - Necessary Code comments 
+  - Necessary Code comments (good code can without comments, but speccial algorithm need)
 ![8421706500351_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/ff4b950c-584e-45ae-9333-83b2334ff745)
 ![8431706500370_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/06cf1389-1543-4917-a6a1-e2f02877eed2)
 ![8441706500532_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/4af13e91-1db8-4c9a-bf42-80394f7ade4f)
