@@ -30,6 +30,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - Appointments/Medical Records export as PDF
   - Connect to ACC mamagement system
   - UIUX improvement (espicially for Medical Records Management)
+    -- 2024 Apr 06 update:  updated Medical Records Management's Image function)
   - User managerment/regiester (finished password change only)
   - OAuth2
   - Dockerilzation
@@ -39,7 +40,13 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - Necessary Code comments (good code can without comments, but speccial algorithm need)
 ![8421706500351_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/ff4b950c-584e-45ae-9333-83b2334ff745)
 ![8431706500370_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/06cf1389-1543-4917-a6a1-e2f02877eed2)
+
+#### [Image function in this picture is older version]
 ![8441706500532_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/4af13e91-1db8-4c9a-bf42-80394f7ade4f)
+
+#### [Now Image function has new UX to let client more easly to use]
+<img width="1920" alt="图片" src="https://github.com/drmatthew1982/screenshots/assets/9025958/d64578b1-3ca8-4448-94c5-2be8597a02a1">
+
 ![8451706500554_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/67800971-3f49-4d2c-bb2b-95b4ad0afee1)
 ![8461706500571_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/03d4d9ef-5459-4aed-a694-f69b76eadf8d)
 ![8471706500583_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/c28f3e85-a1ec-4e20-8d18-3a9cf6d9d59b)
