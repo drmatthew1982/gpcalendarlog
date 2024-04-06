@@ -1,5 +1,15 @@
 # screenshots of gpcalendar 
 (B/S based gensolve's calendar functiion like system)
+### This project still under MVP phase, so many things such as documentation, annotation need be improved in the future after it become "stabel"
+### Here is the code reposity
+
+#### Spring boot backend
+https://github.com/drmatthew1982/gpcalendarbackend
+#### C#/.Net(8) boot backend (only completed login and load events to calender function)
+https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
+#### Vue3 frontend (Using Element plus, Typescript and full-calendar)
+https://github.com/drmatthew1982/gpcalendarwebv3
+
 ## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
 ## (This system using Agile moethod for development, so evaluated from MVP and will be improved contiously).
 ### Following tasks/functions are finished:
