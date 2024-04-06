@@ -1,8 +1,9 @@
 # screenshots of gpcalendar 
-(B/S based gensolve's calendar functiion like system)
+(B/S based gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without reduendent function)
 ### This project still under MVP phase, so many things such as documentation, annotation need be improved in the future after it become "stabel"
 ### Here is the code reposity
-
+##### The one Vue3 frontend can be used with both Spring boot backend and C#/.Net(8) backend
+##### I will try to add backend with other language as node.js and other frontend such as react.js
 #### Spring boot backend
 https://github.com/drmatthew1982/gpcalendarbackend
 #### C#/.Net(8) boot backend (only completed login and load events to calender function)
