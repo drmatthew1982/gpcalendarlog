@@ -10,8 +10,10 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
 
-### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer 
-### (I have legal work visa oif New Zealand already)
+### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa oif New Zealand already),any one insterestd to me, please contact me
+My LinkedIn profile:
+
+My Seek Profile:
 
 ## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
 ## (This system using Agile moethod for development, so evaluated from MVP and will be improved contiously).
