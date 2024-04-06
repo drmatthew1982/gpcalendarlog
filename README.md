@@ -11,9 +11,10 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 https://github.com/drmatthew1982/gpcalendarwebv3
 
 ### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa oif New Zealand already),any one insterestd to me, please contact me
-My LinkedIn profile:
-
-My Seek Profile:
+#### My LinkedIn profile:
+https://www.linkedin.com/in/matthew-zhu-nz/
+#### My Seek Profile:
+https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 
 ## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
 ## (This system using Agile moethod for development, so evaluated from MVP and will be improved contiously).
