@@ -53,7 +53,5 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 ![8451706500554_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/67800971-3f49-4d2c-bb2b-95b4ad0afee1)
 ![8461706500571_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/03d4d9ef-5459-4aed-a694-f69b76eadf8d)
 ![8471706500583_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/c28f3e85-a1ec-4e20-8d18-3a9cf6d9d59b)
-## screen shot of Coding 
-![WechatIMG848](https://github.com/drmatthew1982/screenshots/assets/9025958/51107c6b-47c9-48f4-9647-a1283115f11d)
-<img width="1440" alt="图片" src="https://github.com/drmatthew1982/screenshots/assets/9025958/81c48adc-fdc9-4f8d-bdd8-09c96d4d91bc">
+
 
