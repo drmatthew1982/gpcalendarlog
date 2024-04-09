@@ -1,6 +1,7 @@
 # screenshots of gpcalendar 
 (B/S based gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
 ### This project still under MVP phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
+### it's seems simple now but will not be a "toy"
 ### Here is the code reposity
 ##### The one Vue3 frontend can be used with both Spring boot backend and C#/.Net(8) backend
 ##### I will try to add backend with other language as node.js and other frontend such as react.js
@@ -30,15 +31,15 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - Medical Records Management (Utilised Vue-drawing-canvas)
   - password encrypt
 ### Following tasks/functions in the plan list:
-  - Appointments/Medical Records export as PDF
+  - Export Appointments/Medical Records  as PDF
   - Connect to ACC mamagement system
   - UIUX improvement (espicially for Medical Records Management)
     -- 2024 Apr 06 update:  updated Medical Records Management's Image function)
   - User managerment/regiester (finished password change only)
   - OAuth2
   - Dockerilzation
-  - Microservice version (for cloulization in the future)
-  - Partner/Employee function
+  - Microservice version (for cloudilization in the future)
+  - Partner/Employee functions
   - Other requirements from users
   - Necessary Code comments (good code can without comments, but speccial algorithm need)
 ![8421706500351_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/ff4b950c-584e-45ae-9333-83b2334ff745)
