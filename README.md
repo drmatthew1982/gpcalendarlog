@@ -37,7 +37,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 ### Following tasks/functions in the plan list:
   - Export Appointments/Medical Records  as PDF
   - Connect to ACC mamagement system
-  - Administrion Panel
+  - Admin Panel
   - UIUX improvement (espicially for Medical Records Management)
     -- 2024 Apr 06 update:  updated Medical Records Management's Image function)
   - User managerment/regiester (finished password change only)
