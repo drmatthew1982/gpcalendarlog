@@ -12,9 +12,9 @@ https://github.com/drmatthew1982/gpcalendarbackend
 #### C#/.Net(8) boot backend (Complete here means same performance as Spring boot end)
 https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 06 initial C# backend and completed login and load events to calender function
-##### >>>>2024 04 09 Organisation Management Backend done
-##### >>>>2024 04 11 Client Management Backend done
-
+##### >>>>2024 04 09 Organisation Management Backend completed
+##### >>>>2024 04 11 Client Management Backend completed
+##### >>>>2024 04 13 Event Load Backend completed
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
 
