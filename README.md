@@ -54,10 +54,10 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 ### [Event Management]
 ![8431706500370_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/06cf1389-1543-4917-a6a1-e2f02877eed2)
 ### [Medical Record Management]
-#### [Image function in this picture is older version]
+#### [Medical Record_older version]
 ![8441706500532_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/4af13e91-1db8-4c9a-bf42-80394f7ade4f)
 
-#### [Now Image function has new UX to let client more easly to use]
+#### [Medical Record new UX to let client more easly to understanding the panel functions]
 <img width="1920" alt="图片" src="https://github.com/drmatthew1982/screenshots/assets/9025958/d64578b1-3ca8-4448-94c5-2be8597a02a1">
 
 ### [Orgnisation Management]
