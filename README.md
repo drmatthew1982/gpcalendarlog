@@ -36,6 +36,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - password encrypt
 ### Following tasks/functions in the plan list:
   - Export Appointments/Medical Records  as PDF
+  - Setup a living-demo (who know the free public servers, please let me know, thanks)
   - Connect to ACC mamagement system
   - Admin Panel
   - UIUX improvement (espicially for Medical Records Management)
