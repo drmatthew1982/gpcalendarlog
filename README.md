@@ -15,6 +15,7 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 09 Organisation Management Backend completed
 ##### >>>>2024 04 11 Client Management Backend completed
 ##### >>>>2024 04 13 Event Load Backend completed
+##### >>>>2024 04 14 Event Creation and Update Backend completed
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
 
