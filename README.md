@@ -1,7 +1,8 @@
 # screenshots of gpcalendar 
-(B/S based gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
-### This project still under MVP phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
+(B/S based Gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
+### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
 ### it's seems simple now but will add more function after more requirement gathering
+## We welcomed any advise and suggestion
 ### Here is the code reposity
 ##### The one Vue3 frontend can be used with both Spring boot backend and C#/.Net(8) backend
 ##### I will try to add backend with other language as node.js and other frontend such as react.js
@@ -38,6 +39,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - password encrypt
 ### Following tasks/functions in the plan list:
   - Export Appointments/Medical Records  as PDF
+  - Normalizing code, such as exception handle, and component reuse in the frontend
   - Setup a living-demo (who know the free public servers, please let me know, thanks)
   - Connect to ACC mamagement system
   - Admin Panel
