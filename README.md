@@ -1,7 +1,7 @@
 # screenshots of gpcalendar 
 (B/S based gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
 ### This project still under MVP phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
-### it's seems simple now but will not be a "toy"
+### it's seems simple now but will add more function after more requirement gathering
 ### Here is the code reposity
 ##### The one Vue3 frontend can be used with both Spring boot backend and C#/.Net(8) backend
 ##### I will try to add backend with other language as node.js and other frontend such as react.js
@@ -16,6 +16,7 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 11 Client Management Backend completed
 ##### >>>>2024 04 13 Event Load Backend completed
 ##### >>>>2024 04 14 Event Creation and Update Backend completed
+##### >>>>2024 04 14 Medical Record Management Backend completed
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
 
