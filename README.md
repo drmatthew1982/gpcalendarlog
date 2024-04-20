@@ -20,8 +20,8 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 14 Medical Record Management Backend completed
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
-#### ReactJS frontend (Using MUI, Typescript and full-calendar)
-##### >>>>2024 04 20, after some research, we decide to use MUI (bootstrap has no tree view in current version and ,Flutte UI lack of OOTB layout)
+#### ReactJS frontend (Using MUI, Typescript and full-calendar, link well be discolsed after finished)
+##### >>>>2024 04 20, after some research, we decide to use MUI (react-bootstrap has no tree view in current version and ,Fluent UI lack of OOTB layout, Element React is not good as Vue version)
 
 ### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa of New Zealand already),any one insterestd to me, please contact me
 #### My LinkedIn profile:
@@ -54,6 +54,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - Partner/Employee functions
   - Other requirements from users
   - Necessary Code comments (good code can without comments, but speccial algorithm need)
+## Screenshoot [Vue version]
 ### [Main View]
 ![8421706500351_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/ff4b950c-584e-45ae-9333-83b2334ff745)
 ### [Event Management]
