@@ -1,6 +1,6 @@
 # screenshots of gpcalendar 
 (B/S based Gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
-### My friend ask me help for this project, part time based on passion and friendship.
+### My friend ask me help for this project base on himself's needing, part time based on passion and friendship, a volunteer work without pay, but we do best to ensure make progress (though maybe slowly)
 ### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
 ### it's seems simple now but will add more function after more requirement gathering
 ## Current this porject totally be public, We welcomed any advise and suggestions
