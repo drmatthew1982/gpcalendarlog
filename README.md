@@ -23,6 +23,7 @@ https://github.com/drmatthew1982/gpcalendarwebv3
 #### ReactJS frontend (Using MUI, Typescript and full-calendar, link well be discolsed after finished)
 https://github.com/drmatthew1982/gpcalendar_react
 ##### >>>>2024 04 20, after some research, we decide to use MUI (react-bootstrap has no tree view in current version and ,Fluent UI lack of OOTB layout, Element React is not good as Vue version)
+##### >>>>2024 04 27 Management page Organisation data loading complete
 
 ### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa of New Zealand already),any one insterestd to me, please contact me
 #### My LinkedIn profile:
@@ -55,7 +56,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
   - Partner/Employee functions
   - Other requirements from users
   - Necessary Code comments (good code can without comments, but speccial algorithm need)
-## Screenshoot [Vue version]
+## Screenshoot [Vue3+element-plus version]
 ### [Main View]
 ![8421706500351_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/ff4b950c-584e-45ae-9333-83b2334ff745)
 ### [Event Management]
@@ -72,5 +73,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 ### [Client Management]
 ![8461706500571_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/03d4d9ef-5459-4aed-a694-f69b76eadf8d)
 ![8471706500583_ pic](https://github.com/drmatthew1982/screenshots/assets/9025958/c28f3e85-a1ec-4e20-8d18-3a9cf6d9d59b)
-
+## Screenshoot [React+ MUI version]
+### [Orgnisation Management] [ongoing now]
+<img width="1920" alt="图片" src="https://github.com/drmatthew1982/screenshots/assets/9025958/1bca3e7b-591c-43b4-b9e4-74599b89880a">
 
