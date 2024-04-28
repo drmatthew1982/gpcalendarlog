@@ -1,8 +1,12 @@
 # screenshots of gpcalendar 
 (B/S based Gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
 ### My friend ask me help for this project base on himself's needing, part time based on passion and friendship, a volunteer work without pay,previous year I focus on Massey MBA project and my friend also busy for his Physiological courses, and currently I busy for search a job..., but we will do best to ensure make progress (though maybe slowly)...
-### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable:
-## Current work (20240428), finally I found a free server and busy for setup a living demo.
+### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable"
+
+### 2024 04 28, Finally I found a free server support the living-demo, but because the server is free, so it's also slow. (and the demo may stop at any time...)
+### Here is the living-demo link:
+http://drmatthew1982.serv00.net/
+
 ### it's seems simple now but will add more function after more requirement gathering
 ## Current this porject totally be public, We welcomed any advise and suggestions
 ### Here is the code reposity
@@ -46,7 +50,7 @@ https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 ### Following tasks/functions in the plan list:
   - Export Appointments/Medical Records  as PDF
   - Normalizing code, such as exception handle, and component reuse in the frontend
-  - Setup a living-demo (who know the free public servers, please let me know, thanks)
+  - Setup a living-demo (Done? At least it can use...)
   - Connect to ACC mamagement system
   - Admin Panel
   - UIUX improvement (espicially for Medical Records Management)
