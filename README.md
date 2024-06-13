@@ -26,6 +26,7 @@ https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 14 Medical Record Management Backend completed
 #### Vue3 frontend (Using Element plus, Typescript and full-calendar)
 https://github.com/drmatthew1982/gpcalendarwebv3
+##### >>>>2024 06 13 Fix the bug of drag and drop
 #### ReactJS frontend (Using MUI, Typescript and full-calendar, link well be discolsed after finished)
 https://github.com/drmatthew1982/gpcalendar_react
 ##### >>>>2024 04 20, after some research, we decide to use MUI (react-bootstrap has no tree view in current version and ,Fluent UI lack of OOTB layout, Element React is not good as Vue version)
