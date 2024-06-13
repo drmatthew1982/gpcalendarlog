@@ -15,7 +15,7 @@ http://drmatthew1982.serv00.net/
 #### Spring boot backend
 https://github.com/drmatthew1982/gpcalendarbackend
 ##### >>>>2024 04 06 support Client, Orginisation, Calender Event. Medical Report Management
-
+##### >>>2024 06 13 Degrade Spring Boot 3.0.3 to 2.8.71 because of demo server only support Java 11 now (it's support Java 20 before)
 #### C#/.Net(8) boot backend (Complete here means same performance as Spring boot end)
 https://github.com/drmatthew1982/gpcalanderbackenddotnet_v8
 ##### >>>>2024 04 06 initial C# backend and completed login and load events to calender function
