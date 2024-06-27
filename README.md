@@ -1,6 +1,5 @@
 # screenshots of gpcalendar 
 (B/S based Gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
-### My friend ask me help for this project base on himself's needing, part time based on passion and friendship, a volunteer work without pay,previous year I focus on Massey MBA project and my friend also busy for his Physiological courses, and currently I busy for search a job..., but we will do best to ensure make progress (though maybe slowly)...
 ### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable"
 
 ### 2024 04 28, Finally I found a free server support the living-demo, but because the server is free, so it's also slow. (and the demo may stop at any time...)
@@ -33,10 +32,6 @@ https://github.com/drmatthew1982/gpcalendar_react
 ##### >>>>2024 04 27 Management page Organisation data loading complete
 ##### >>>>2024 04 28 I found a free server is good for setup a living demo, so suspend react and focus on setup server in future days.
 ### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa of New Zealand already),any one insterestd to me, please contact me
-#### My LinkedIn profile:
-https://www.linkedin.com/in/matthew-zhu-nz/
-#### My Seek Profile:
-https://www.seek.co.nz/profile/matthewyiqing-zhu-lqp3JrnbY5
 
 ## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
 ## (This system using Agile moethod for development, so evaluated from MVP and will be improved contiously).
