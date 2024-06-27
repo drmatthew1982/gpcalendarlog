@@ -31,7 +31,6 @@ https://github.com/drmatthew1982/gpcalendar_react
 ##### >>>>2024 04 20, after some research, we decide to use MUI (react-bootstrap has no tree view in current version and ,Fluent UI lack of OOTB layout, Element React is not good as Vue version)
 ##### >>>>2024 04 27 Management page Organisation data loading complete
 ##### >>>>2024 04 28 I found a free server is good for setup a living demo, so suspend react and focus on setup server in future days.
-### By the way, I searching a job of senior software engineer at New Zealand provide by an Acredited Employer (I have legal work visa of New Zealand already),any one insterestd to me, please contact me
 
 ## Following screen shot is current version of gpcalendar, it is improving contiously and pay the tech debt.
 ## (This system using Agile moethod for development, so evaluated from MVP and will be improved contiously).
