@@ -1,5 +1,5 @@
 # screenshots of gpcalendar 
-(B/S based Gensolve's calendar functiion like system, we still discuss about which function can make most gp use and without redundant function)
+(B/S based Gensolve's calendar functiion like system, I still try to findout about which function can make most gp use and without redundant function)
 ### This project still under MVP/POC phase, so many things such as code style documentation, annotation need be improved in the future after it become "stable"
 
 ### 2024 04 28, Finally I found a free server support the living-demo, but because the server is free, so it's also slow. (and the demo may stop at any time...)
@@ -7,10 +7,10 @@
 http://drmatthew1982.serv00.net/
 
 ### it's seems simple now but will add more function after more requirement gathering
-## Current this porject totally be public, We welcomed any advise and suggestions
+## Current this porject totally be public, I welcomed any advise and suggestions
 ### Here is the code reposity
 ##### The one Vue3 frontend can be used with both Spring boot backend and C#/.Net(8) backend
-##### Considerate about the NZ market's skill stakes, we will try to add backend with other language as node.js and other frontend such as react.js
+##### Considerate about the NZ market's skill stakes, I will try to add backend with other language as node.js and other frontend such as react.js
 #### Spring boot backend
 https://github.com/drmatthew1982/gpcalendarbackend
 ##### >>>>2024 04 06 support Client, Orginisation, Calender Event. Medical Report Management
